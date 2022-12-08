@@ -9,7 +9,6 @@
         <create_access>true</create_access>
         <create_access_controls>false</create_access_controls>
         <delete_access>false</delete_access>
-        <extension_model/>
         <is_extendable>false</is_extendable>
         <label>testapp_table</label>
         <live_feed_enabled>false</live_feed_enabled>
@@ -19,20 +18,15 @@
         <read_access>true</read_access>
         <scriptable_table>false</scriptable_table>
         <super_class/>
-        <sys_class_code/>
         <sys_class_name>sys_db_object</sys_class_name>
-        <sys_class_path/>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-26 05:58:20</sys_created_on>
         <sys_id>b1cf7b4547b21110464693bd436d434c</sys_id>
-        <sys_mod_count>1</sys_mod_count>
         <sys_name>testapp_table</sys_name>
         <sys_package display_value="Test New Application" source="x_295971_test_new">085fbb0547b21110464693bd436d43d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test New Application">085fbb0547b21110464693bd436d43d9</sys_scope>
         <sys_update_name>sys_db_object_b1cf7b4547b21110464693bd436d434c</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-26 05:58:20</sys_updated_on>
         <update_access>true</update_access>
         <user_role/>
         <ws_access>true</ws_access>

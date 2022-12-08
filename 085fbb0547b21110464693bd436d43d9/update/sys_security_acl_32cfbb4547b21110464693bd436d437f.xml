@@ -12,14 +12,11 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-10-26 05:58:24</sys_created_on>
         <sys_id>32cfbb4547b21110464693bd436d437f</sys_id>
-        <sys_mod_count>0</sys_mod_count>
         <sys_name>x_295971_test_new_testapp_table</sys_name>
         <sys_package display_value="Test New Application" source="x_295971_test_new">085fbb0547b21110464693bd436d43d9</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test New Application">085fbb0547b21110464693bd436d43d9</sys_scope>
         <sys_update_name>sys_security_acl_32cfbb4547b21110464693bd436d437f</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2022-10-26 05:58:24</sys_updated_on>
         <type display_value="record">record</type>
     </sys_security_acl>
 </record_update>
